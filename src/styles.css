@@ -6,6 +6,8 @@ body {
   font-family: sans-serif;
   margin: 20px;
   padding: 0;
+  background-color: #000;
+  filter: invert(1);
 }
 
 h1 {
